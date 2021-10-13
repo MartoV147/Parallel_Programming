@@ -1,0 +1,13 @@
+C:\Users\Gladitorian\source\repos\Parallel Programming_Word Analyzer\Parallel Programming_Word Analyzer\bin\Debug\netcoreapp3.1\Parallel Programming_Word Analyzer.exe
+C:\Users\Gladitorian\source\repos\Parallel Programming_Word Analyzer\Parallel Programming_Word Analyzer\bin\Debug\netcoreapp3.1\Parallel Programming_Word Analyzer.deps.json
+C:\Users\Gladitorian\source\repos\Parallel Programming_Word Analyzer\Parallel Programming_Word Analyzer\bin\Debug\netcoreapp3.1\Parallel Programming_Word Analyzer.runtimeconfig.json
+C:\Users\Gladitorian\source\repos\Parallel Programming_Word Analyzer\Parallel Programming_Word Analyzer\bin\Debug\netcoreapp3.1\Parallel Programming_Word Analyzer.runtimeconfig.dev.json
+C:\Users\Gladitorian\source\repos\Parallel Programming_Word Analyzer\Parallel Programming_Word Analyzer\bin\Debug\netcoreapp3.1\Parallel Programming_Word Analyzer.dll
+C:\Users\Gladitorian\source\repos\Parallel Programming_Word Analyzer\Parallel Programming_Word Analyzer\bin\Debug\netcoreapp3.1\Parallel Programming_Word Analyzer.pdb
+C:\Users\Gladitorian\source\repos\Parallel Programming_Word Analyzer\Parallel Programming_Word Analyzer\obj\Debug\netcoreapp3.1\Parallel Programming_Word Analyzer.csprojAssemblyReference.cache
+C:\Users\Gladitorian\source\repos\Parallel Programming_Word Analyzer\Parallel Programming_Word Analyzer\obj\Debug\netcoreapp3.1\Parallel Programming_Word Analyzer.AssemblyInfoInputs.cache
+C:\Users\Gladitorian\source\repos\Parallel Programming_Word Analyzer\Parallel Programming_Word Analyzer\obj\Debug\netcoreapp3.1\Parallel Programming_Word Analyzer.AssemblyInfo.cs
+C:\Users\Gladitorian\source\repos\Parallel Programming_Word Analyzer\Parallel Programming_Word Analyzer\obj\Debug\netcoreapp3.1\Parallel Programming_Word Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Gladitorian\source\repos\Parallel Programming_Word Analyzer\Parallel Programming_Word Analyzer\obj\Debug\netcoreapp3.1\Parallel Programming_Word Analyzer.dll
+C:\Users\Gladitorian\source\repos\Parallel Programming_Word Analyzer\Parallel Programming_Word Analyzer\obj\Debug\netcoreapp3.1\Parallel Programming_Word Analyzer.pdb
+C:\Users\Gladitorian\source\repos\Parallel Programming_Word Analyzer\Parallel Programming_Word Analyzer\obj\Debug\netcoreapp3.1\Parallel Programming_Word Analyzer.genruntimeconfig.cache
