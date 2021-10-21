@@ -1,0 +1,13 @@
+C:\Users\Gladitorian\source\repos\Parallel_Programming_Hw_2\Parallel_Programming_Hw_2\obj\Debug\netcoreapp3.1\Parallel_Programming_Hw_2.csprojAssemblyReference.cache
+C:\Users\Gladitorian\source\repos\Parallel_Programming_Hw_2\Parallel_Programming_Hw_2\obj\Debug\netcoreapp3.1\Parallel_Programming_Hw_2.AssemblyInfoInputs.cache
+C:\Users\Gladitorian\source\repos\Parallel_Programming_Hw_2\Parallel_Programming_Hw_2\obj\Debug\netcoreapp3.1\Parallel_Programming_Hw_2.AssemblyInfo.cs
+C:\Users\Gladitorian\source\repos\Parallel_Programming_Hw_2\Parallel_Programming_Hw_2\obj\Debug\netcoreapp3.1\Parallel_Programming_Hw_2.csproj.CoreCompileInputs.cache
+C:\Users\Gladitorian\source\repos\Parallel_Programming_Hw_2\Parallel_Programming_Hw_2\bin\Debug\netcoreapp3.1\Parallel_Programming_Hw_2.exe
+C:\Users\Gladitorian\source\repos\Parallel_Programming_Hw_2\Parallel_Programming_Hw_2\bin\Debug\netcoreapp3.1\Parallel_Programming_Hw_2.deps.json
+C:\Users\Gladitorian\source\repos\Parallel_Programming_Hw_2\Parallel_Programming_Hw_2\bin\Debug\netcoreapp3.1\Parallel_Programming_Hw_2.runtimeconfig.json
+C:\Users\Gladitorian\source\repos\Parallel_Programming_Hw_2\Parallel_Programming_Hw_2\bin\Debug\netcoreapp3.1\Parallel_Programming_Hw_2.runtimeconfig.dev.json
+C:\Users\Gladitorian\source\repos\Parallel_Programming_Hw_2\Parallel_Programming_Hw_2\bin\Debug\netcoreapp3.1\Parallel_Programming_Hw_2.dll
+C:\Users\Gladitorian\source\repos\Parallel_Programming_Hw_2\Parallel_Programming_Hw_2\bin\Debug\netcoreapp3.1\Parallel_Programming_Hw_2.pdb
+C:\Users\Gladitorian\source\repos\Parallel_Programming_Hw_2\Parallel_Programming_Hw_2\obj\Debug\netcoreapp3.1\Parallel_Programming_Hw_2.dll
+C:\Users\Gladitorian\source\repos\Parallel_Programming_Hw_2\Parallel_Programming_Hw_2\obj\Debug\netcoreapp3.1\Parallel_Programming_Hw_2.pdb
+C:\Users\Gladitorian\source\repos\Parallel_Programming_Hw_2\Parallel_Programming_Hw_2\obj\Debug\netcoreapp3.1\Parallel_Programming_Hw_2.genruntimeconfig.cache
