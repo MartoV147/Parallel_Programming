@@ -35,7 +35,7 @@ namespace Parallel_Programming_Hw_2
             }
         }
 
-        public void Purchase(Client client, Dictionary<Product, int> itemsToPurchase)
+        public ResultEnum Purchase(Client client, Dictionary<Product, int> itemsToPurchase)
         {
             lock (locker)
             {
@@ -56,16 +56,23 @@ namespace Parallel_Programming_Hw_2
                 {
                     foreach (var itemToPurchase in itemsToPurchase)
                     {
-                        if (Stock.ContainsKey(itemToPurchase.Key) 
+                        if (Stock.ContainsKey(itemToPurchase.Key)
                             && Stock[itemToPurchase.Key] >= itemToPurchase.Value)
                         {
                             Stock[itemToPurchase.Key] -= itemToPurchase.Value;
-                            Console.WriteLine("Purchase successful");
-                            //Console.WriteLine(client.Name + " purchased successfully " + itemToPurchase.Key.Name);
+                            //Console.WriteLine("Purchase successful");
+                            Console.WriteLine(client.Name + " purchased successfully " + itemToPurchase.Key.Name);
+                            return ResultEnum.Successful;
                         }
-                        else Console.WriteLine("Purchase failed");
+                        else
+                        { 
+                            Console.WriteLine("Purchase failed");
+                            return ResultEnum.Failed;
+                        }
+                       
                     }
                 }
+                return ResultEnum.Failed;
             }
         }
 
